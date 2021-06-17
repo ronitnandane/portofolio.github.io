@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+#port {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.about {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.line {
+    height: 6px;
+    background-color: #FF1744;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.info {
+    background-color: turquoise;
+    padding: 10px;
+}
+
+.title {
+    font-family: 'Kreon', serif;
+}
+
+.para {
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+
+.school {
+    background-color: springgreen;
+    padding: 10px;
+}
+
+.hobby {
+    background-color: mediumaquamarine;
+    padding: 10px;
+}
